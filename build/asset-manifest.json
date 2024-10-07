@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e2280f17.css",
+    "main.js": "/static/js/main.e07bf3f0.js",
+    "static/js/453.b21437c2.chunk.js": "/static/js/453.b21437c2.chunk.js",
+    "static/media/david1.png": "/static/media/david1.f4bc0ff638f6bd35b1ec.png",
+    "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/network.svg": "/static/media/network.b942b0d8556038f40d83ef4060aba3ae.svg",
+    "static/media/icon2.png": "/static/media/icon2.db7d7a504ba02e06becd.png",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/java-original-wordmark.svg": "/static/media/java-original-wordmark.cbc1a7f547d1c508547dfed459162d68.svg",
+    "static/media/react-javascript-js-framework-facebook.svg": "/static/media/react-javascript-js-framework-facebook.2a14de24aa5afe3322fa644a1c217fd8.svg",
+    "static/media/python.svg": "/static/media/python.888cd80d31702f3cdaa2a0e2d56c436c.svg",
+    "static/media/blurred-coloured-background_1107-154.jpg.avif": "/static/media/blurred-coloured-background_1107-154.jpg.b216fc4b478e8aeef3f7.avif",
+    "static/media/instagram.svg": "/static/media/instagram.896a2ba449ce7434064e226b6ca55b88.svg",
+    "static/media/javascript-js.svg": "/static/media/javascript-js.63b93412a24001eff2acc22e0cb40276.svg",
+    "static/media/facebook.svg": "/static/media/facebook.7e75f9ba3583487316ef9d9e7d5d4683.svg",
+    "index.html": "/index.html",
+    "static/media/nintendo-gamecube.svg": "/static/media/nintendo-gamecube.6a599410df4d7bcad47f8573b71623ca.svg",
+    "main.e2280f17.css.map": "/static/css/main.e2280f17.css.map",
+    "main.e07bf3f0.js.map": "/static/js/main.e07bf3f0.js.map",
+    "453.b21437c2.chunk.js.map": "/static/js/453.b21437c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2280f17.css",
+    "static/js/main.e07bf3f0.js"
+  ]
+}
